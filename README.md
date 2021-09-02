@@ -1,7 +1,7 @@
 Bootcamp Santander - DIO
 =================
 <!--ts-->
-   *Tópico - Trabalhando com Content Provider Client
+   *Tópico - Trabalhando com Content Provider (parte II)
   
 <!--ts-->
 
